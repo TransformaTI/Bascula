@@ -1,0 +1,5 @@
+D:\TFSGM\Bascula\Bascula\obj\Debug\Bascula².vbprojResolveAssemblyReference.cache
+D:\TFSGM\Bascula\Bascula\obj\Debug\Bascula.frmPrincipal.resources
+D:\TFSGM\Bascula\Bascula\obj\Debug\Bascula².vbproj.GenerateResource.Cache
+D:\TFSGM\Bascula\Bascula\obj\Debug\Bascula².exe.licenses
+D:\TFSGM\Bascula\Bascula\obj\Debug\Bascula².vbproj.CoreCompileInputs.cache

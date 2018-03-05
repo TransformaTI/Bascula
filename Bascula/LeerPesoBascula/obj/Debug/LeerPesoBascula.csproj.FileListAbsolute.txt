@@ -1,0 +1,14 @@
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\App.ico
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\Bascula.ico
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\Control.ico
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\app.config
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\LeerPesoBascula.dll.config
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\LeerPesoBascula.dll
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\bin\Debug\LeerPesoBascula.pdb
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.csprojResolveAssemblyReference.cache
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.frmLeerCOM.resources
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\Project01.Form1.resources
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.csproj.GenerateResource.Cache
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.csproj.CoreCompileInputs.cache
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.dll
+D:\TFSGM\Bascula\Bascula\LeerPesoBascula\obj\Debug\LeerPesoBascula.pdb

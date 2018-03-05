@@ -1,0 +1,11 @@
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.frmAutoCarburacion.resources
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.frmResguardo.resources
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.vbproj.GenerateResource.Cache
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.vbproj.CoreCompileInputs.cache
+D:\TFSGM\Bascula\Bascula\Resguardo\bin\Resguardo.dll
+D:\TFSGM\Bascula\Bascula\Resguardo\bin\Resguardo.pdb
+D:\TFSGM\Bascula\Bascula\Resguardo\bin\Resguardo.xml
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.vbprojResolveAssemblyReference.cache
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.dll
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.xml
+D:\TFSGM\Bascula\Bascula\Resguardo\obj\Debug\Resguardo.pdb

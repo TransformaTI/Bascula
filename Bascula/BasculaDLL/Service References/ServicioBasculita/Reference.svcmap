@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7a2ea997-eabd-4860-a663-d4c7a567ec53" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://pyros:9055/LeerEthernet.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LeerEthernet3.xsd" MetadataType="Schema" ID="9e2d73fe-7481-4a8c-a0b0-5900f7d01094" SourceId="1" SourceUrl="http://pyros:9055/LeerEthernet.svc?xsd=xsd2" />
+    <MetadataFile FileName="LeerEthernet31.xsd" MetadataType="Schema" ID="3d74c1c3-6be6-42f7-855a-2126d5af1c7a" SourceId="1" SourceUrl="http://pyros:9055/LeerEthernet.svc?xsd=xsd0" />
+    <MetadataFile FileName="LeerEthernet1.wsdl" MetadataType="Wsdl" ID="18cef791-6fad-4854-9f64-52fd37c2142b" SourceId="1" SourceUrl="http://pyros:9055/LeerEthernet.svc?wsdl" />
+    <MetadataFile FileName="LeerEthernet1.disco" MetadataType="Disco" ID="15b41095-a946-4114-bbfa-198c5d9b48fe" SourceId="1" SourceUrl="http://pyros:9055/LeerEthernet.svc?disco" />
+    <MetadataFile FileName="LeerEthernet32.xsd" MetadataType="Schema" ID="a21c771a-4684-435f-80f1-e2e9844719b6" SourceId="1" SourceUrl="http://pyros:9055/LeerEthernet.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

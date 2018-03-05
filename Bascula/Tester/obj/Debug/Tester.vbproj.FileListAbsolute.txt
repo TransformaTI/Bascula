@@ -1,0 +1,3 @@
+D:\TFSGM\Bascula\Bascula\Tester\obj\Debug\Tester.Form1.resources
+D:\TFSGM\Bascula\Bascula\Tester\obj\Debug\Tester.vbproj.GenerateResource.Cache
+D:\TFSGM\Bascula\Bascula\Tester\obj\Debug\Tester.vbproj.CoreCompileInputs.cache
