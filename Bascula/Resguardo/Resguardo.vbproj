@@ -86,7 +86,7 @@
   <ItemGroup>
     <Reference Include="PortatilClasses, Version=1.7.0.4, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\PortatilClasses.dll</HintPath>
+      <HintPath>..\..\..\SigametLibrerias\PortatilClasses\bin\PortatilClasses.dll</HintPath>
     </Reference>
     <Reference Include="SigaMetClasses, Version=2.0.0.2, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>

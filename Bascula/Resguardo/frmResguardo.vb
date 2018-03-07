@@ -859,13 +859,24 @@ Public Class frmResguardo
     Private Sub BuscarCliente()
         Cursor = Cursors.WaitCursor
         Dim oCliente As New PortatilClasses.Consulta.cCliente(5, CType(txtCliente.Text, Integer))
-        oCliente.CargaDatos()
+        Dim oConfig As New SigaMetClasses.cConfig(16, GLOBAL_Corporativo, GLOBAL_Sucursal)
+        Dim bConsultaWebService As Boolean = False
+
+        Dim strURLGateway As String = CType(oConfig.Parametros("URLGateway"), String).Trim
+
+        If String.IsNullOrEmpty(strURLGateway) Then
+            oCliente.CargaDatos()
+        Else
+            oCliente.CargaDatos(strURLGateway)
+            bConsultaWebService = True
+        End If
 
         If oCliente.Cliente <> "" Then
             lblCliente.Text = oCliente.Cliente
             lblRuta.Text = oCliente.Ruta
             lblRuta.Tag = oCliente.IdRuta
-            lblEmpresa.Text = oCliente.Corporativo
+            'lblEmpresa.Text = oCliente.Corporativo
+            lblEmpresa.Text = If(bConsultaWebService, oCliente.Cliente, oCliente.Corporativo)
             lblEmpresa.Tag = oCliente.IdCorporativo
             CelulaCliente = oCliente.Celula
             DatosClienteCargados = True
